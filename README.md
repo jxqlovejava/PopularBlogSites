@@ -5,6 +5,7 @@
 ### Security
 * [乌云知识库][1]
 * [FreeBuf][2]
+* <a href="http://baidu.com" target="_blank">百度</a>
 
 ### NoSQL
 * [NoSQLFan][3]
