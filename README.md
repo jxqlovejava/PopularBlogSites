@@ -8,3 +8,7 @@
 
 ### NoSQL
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
+
+### Bloggers
+* <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
+
