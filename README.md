@@ -18,3 +18,7 @@
 
 ### 并行编程
 * <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
+* 
+
+### 分布式系统
+* <a href="http://www.bitstech.net/">bitstech</a>
