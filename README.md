@@ -12,3 +12,5 @@
 ### Bloggers
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
 
+### Java Performance
+* <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
