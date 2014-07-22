@@ -11,6 +11,10 @@
 
 ### Bloggers
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
+* 
+
+### 深入Java
+* <a href="http://www.tedneward.com/writing.aspx" target="_blank">Some Java Related Papers</a>
 
 ### Java Performance
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
