@@ -14,3 +14,6 @@
 
 ### Java Performance
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
+* 
+### 并行编程
+* <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
