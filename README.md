@@ -21,4 +21,4 @@
 * 
 
 ### 分布式系统
-* <a href="http://www.bitstech.net/">bitstech</a>
+* <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
