@@ -8,7 +8,7 @@
 
 ### NoSQL
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
-* <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing KV Store Table of Contents</a>
+* <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing a KV Store Table of Contents</a>
 
 ### Bloggers
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
