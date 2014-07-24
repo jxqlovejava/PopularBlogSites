@@ -12,7 +12,7 @@
 
 ### Bloggers
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
-* 
+* <a href="http://site.douban.com/196781/room/2541807/" target="_blank">God-Mode</a>
 
 ### 深入Java
 * <a href="http://www.tedneward.com/writing.aspx" target="_blank">Some Java Related Papers</a>
@@ -27,3 +27,11 @@
 
 ### 分布式系统
 * <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
+
+### 工具
+Redis监控：
+https://github.com/jxqlovejava/redis-faina
+https://github.com/jxqlovejava/RedisLive
+
+AB
+JMeter
