@@ -26,8 +26,9 @@
 * <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
 * 
 
-### 分布式系统
+### 分布式系统、高性能网站架构
 * <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
+* <a href="http://highscalability.com/" target="_blank">High Scabality</a>
 
 ### 工具
 Redis监控：
