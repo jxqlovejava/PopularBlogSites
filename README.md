@@ -29,6 +29,7 @@
 * <a href="http://blog.csdn.net/yangbutao/article/list/14" target="_blank">杨步涛的博客</a>
 * <a href="http://www.ebaytechblog.com/">eBay Tech Blog</a>
 * <a href="http://blog.yunnotes.net/">Yun Notes</a>
+* <a href="http://www.searchtb.com/">淘宝搜索技术博客</a>
 
 ### 工具
 Redis监控：
