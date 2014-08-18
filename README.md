@@ -14,6 +14,7 @@
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
 * <a href="http://site.douban.com/196781/room/2541807/" target="_blank">God-Mode</a>
 * <a href="http://blog.csdn.net/bluishglc/" target="_blank">Laurence - 大数据、数据库</a>
+* <a href="http://www.chepoo.com/">Java线上问题、数据结构算法、搜索等</a>
 
 ### Java Performance
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
