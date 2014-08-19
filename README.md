@@ -5,7 +5,7 @@
 ### Security
 * <a href="http://drops.wooyun.org/" target="_blank">乌云知识库</a>
 * <a href="http://www.freebuf.com/" target="_blank">FreeBuf</a>
-* <a href="http://staff.ustc.edu.cn/~sycheng/cs/">中国科大计算机安全课程资料</a>
+* <a href="http://staff.ustc.edu.cn/~sycheng/cs/" target="_blank">中国科大计算机安全课程资料</a>
 
 ### NoSQL
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
