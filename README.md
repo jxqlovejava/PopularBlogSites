@@ -35,7 +35,7 @@
 * <a href="http://blog.csdn.net/yangbutao/article/list/14" target="_blank">杨步涛的博客</a>
 * <a href="http://www.ebaytechblog.com/" target="_blank">eBay Tech Blog</a>
 * <a href="http://blog.yunnotes.net/" target="_blank">Yun Notes</a>
-* <a href="http://www.searchtb.com/" target="_blank“>TaoBao Search Tech Blog</a>
+
 
 ### 大数据、搜索、推荐
 
