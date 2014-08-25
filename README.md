@@ -16,6 +16,7 @@
 * <a href="http://site.douban.com/196781/room/2541807/" target="_blank">God-Mode</a>
 * <a href="http://blog.csdn.net/bluishglc/" target="_blank">Laurence - 大数据、数据库</a>
 * <a href="http://www.chepoo.com/">Java线上问题、数据结构算法、搜索等</a>
+* <a href="http://www.drdobbs.com/" target="_blank">drdobbs</a>
 
 ### Java Performance
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
@@ -29,9 +30,13 @@
 * <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
 * <a href="http://highscalability.com/" target="_blank">High Scabality</a>
 * <a href="http://blog.csdn.net/yangbutao/article/list/14" target="_blank">杨步涛的博客</a>
-* <a href="http://www.ebaytechblog.com/">eBay Tech Blog</a>
-* <a href="http://blog.yunnotes.net/">Yun Notes</a>
-* <a href="http://www.searchtb.com/">淘宝搜索技术博客</a>
+* <a href="http://www.ebaytechblog.com/" target="_blank">eBay Tech Blog</a>
+* <a href="http://blog.yunnotes.net/" target="_blank">Yun Notes</a>
+* <a href="http://www.searchtb.com/" target="_blank“>淘宝搜索技术博客</a>
+
+### 大数据、搜索、推荐
+* <a href="http://lambda-architecture.net/" target="_blank">Lambda架构</a>
+* <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
 
 ### 工具
 Redis监控：
