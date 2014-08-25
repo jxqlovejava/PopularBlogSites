@@ -55,4 +55,8 @@ http://sirona.incubator.apache.org/
 AB
 JMeter
 
+淘宝
+
+taobao
+
 * <a href="http://www.searchtb.com/" target="_blank“>TaoBao Search Tech Blog</a>
