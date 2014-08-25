@@ -36,6 +36,7 @@
 
 
 ### 大数据、搜索、推荐
+
 * <a href="http://lambda-architecture.net/" target="_blank">Lambda架构</a>
 * <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
 
