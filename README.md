@@ -12,6 +12,7 @@
 * <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing a KV Store Table of Contents</a>
 
 ### Bloggers
+
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
 * <a href="http://site.douban.com/196781/room/2541807/" target="_blank">God-Mode</a>
 * <a href="http://blog.csdn.net/bluishglc/" target="_blank">Laurence - 大数据、数据库</a>
@@ -19,13 +20,16 @@
 * <a href="http://www.drdobbs.com/" target="_blank">drdobbs</a>
 
 ### Java Performance
+
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
 * 
 
 ### 并行编程
+
 * <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
 
 ### 分布式系统、高性能网站架构
+
 * <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
 * <a href="http://highscalability.com/" target="_blank">High Scabality</a>
 * <a href="http://blog.csdn.net/yangbutao/article/list/14" target="_blank">杨步涛的博客</a>
@@ -40,6 +44,7 @@
 
 
 ### 工具
+
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
 https://github.com/jxqlovejava/RedisLive
