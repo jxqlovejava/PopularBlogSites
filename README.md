@@ -41,7 +41,6 @@
 
 * <a href="http://lambda-architecture.net/" target="_blank">Lambda架构</a>
 * <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
-* <a href="http://www.searchtb.com/" target="_blank“>TaoBao Search Tech Blog</a>
 
 
 ### 工具
@@ -56,5 +55,6 @@ http://sirona.incubator.apache.org/
 AB
 JMeter
 
+http://www.searchtb.com/
 
 
