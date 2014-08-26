@@ -13,6 +13,7 @@
 
 ### Bloggers
 
+* <a href="http://martinfowler.com/" target="_blank">Martin Fowler</a>
 * <a href="http://blog.codingnow.com/" target="_blank">云风的Blog</a>
 * <a href="http://site.douban.com/196781/room/2541807/" target="_blank">God-Mode</a>
 * <a href="http://blog.csdn.net/bluishglc/" target="_blank">Laurence - 大数据、数据库</a>
