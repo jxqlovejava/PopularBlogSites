@@ -47,7 +47,7 @@
 
 ### 编程范式
 
-* <a href="http://alexsquest.com/">Alexs Quest - OO</a>
+* <a href="http://alexsquest.com/" target="_blank">Alexs Quest - OO</a>
 
 
 ### 人工智能
