@@ -46,8 +46,14 @@
 * <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
 * <a href="http://www.searchtb.com/" target="_blank">淘宝搜索技术博客</a>
 
+### 智能算法
 
-### 工具
+* <a href="http://book.douban.com/subject/5375620/">失控：全人类的最终命运和结局</a>
+* <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank"></a>
+
+### 脚本&工具
+
+* <a href="http://www.lzhaohao.info/abs/" target="_blank">Bash脚本编程指南</a>
 
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
