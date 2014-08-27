@@ -45,6 +45,10 @@
 * <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
 * <a href="http://www.searchtb.com/" target="_blank">淘宝搜索技术博客</a>
 
+### 编程范式
+
+* <a href="http://alexsquest.com/">Alexs Quest - OO</a>
+
 
 ### 人工智能
 
