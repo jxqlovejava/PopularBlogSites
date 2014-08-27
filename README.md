@@ -48,7 +48,7 @@
 
 ### 智能算法
 
-* <a href="http://book.douban.com/subject/5375620/">失控：全人类的最终命运和结局</a>
+* <a href="http://book.douban.com/subject/5375620/" target="_blank">失控：全人类的最终命运和结局</a>
 * <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank"></a>
 
 ### 脚本&工具
