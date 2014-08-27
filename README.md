@@ -47,7 +47,7 @@
 * <a href="http://www.searchtb.com/" target="_blank">淘宝搜索技术博客</a>
 
 
-### 智能算法
+### 人工智能
 
 * <a href="http://book.douban.com/subject/5375620/" target="_blank">失控：全人类的最终命运和结局</a>
 * <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank">Clever Algorithms</a>
