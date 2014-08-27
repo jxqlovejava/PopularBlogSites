@@ -1,6 +1,6 @@
 # 流行技术博客站点收录
 
-涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索等等（不一定是著名站点或者知名博客，重在有可借鉴之处），持续更新中。。。
+涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），持续更新中。。。
 
 ### Security
 * <a href="http://drops.wooyun.org/" target="_blank">乌云知识库</a>
@@ -46,14 +46,17 @@
 * <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
 * <a href="http://www.searchtb.com/" target="_blank">淘宝搜索技术博客</a>
 
+
 ### 智能算法
 
 * <a href="http://book.douban.com/subject/5375620/" target="_blank">失控：全人类的最终命运和结局</a>
 * <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank"></a>
 
+
 ### 脚本&工具
 
 * <a href="http://www.lzhaohao.info/abs/" target="_blank">Bash脚本编程指南</a>
+
 
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
