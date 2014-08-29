@@ -8,9 +8,10 @@
 * <a href="http://staff.ustc.edu.cn/~sycheng/cs/" target="_blank">中国科大计算机安全课程资料</a>
 * <a href="https://crypto.stanford.edu/" target="_blank">Stanford密码安全学</a>
 
-### NoSQL
+### RDB & NoSQL DB
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
 * <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing a KV Store Table of Contents</a>
+* <a href="http://dev.mysql.com/doc/internals/en/index.html" target="_blank">MySQL Internals</a>
 
 ### Bloggers
 
