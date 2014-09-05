@@ -52,11 +52,16 @@
 
 * <a href="http://alexsquest.com/" target="_blank">Alexs Quest - OO</a>
 
+### 通用算法
 
-### 人工智能
+* <a href="http://top.jobbole.com/tag/algorithm/" target="_blank">算法-伯乐在线</a>
+
+### 人工智能 & 机器学习
 
 * <a href="http://book.douban.com/subject/5375620/" target="_blank">失控：全人类的最终命运和结局</a>
 * <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank">Clever Algorithms</a>
+* <a href="http://blog.jobbole.com/67616/" target="_blank">机器学习入门</a>
+* <a href="http://top.jobbole.com/tag/machine-learning/" target="_blank">机器学习资源-伯乐在线</a>
 
 
 ### 脚本&工具
