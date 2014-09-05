@@ -7,6 +7,7 @@
 * <a href="http://www.freebuf.com/" target="_blank">FreeBuf</a>
 * <a href="http://staff.ustc.edu.cn/~sycheng/cs/" target="_blank">中国科大计算机安全课程资料</a>
 * <a href="https://crypto.stanford.edu/" target="_blank">Stanford密码安全学</a>
+* <a href="http://blog.jobbole.com/48738/" target="_blank">信息安全入门指南-伯乐在线</a>
 
 ### RDB & NoSQL DB
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
