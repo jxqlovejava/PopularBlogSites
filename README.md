@@ -13,6 +13,7 @@
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
 * <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing a KV Store Table of Contents</a>
 * <a href="http://dev.mysql.com/doc/internals/en/index.html" target="_blank">MySQL Internals</a>
+* <a href="http://imysql.cn/" target="_blank">MySQL中文网</a>
 
 ### Bloggers
 
