@@ -1,6 +1,6 @@
 # 流行技术博客站点收录
 
-涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），持续更新中。。。
+涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。
 
 ### Security
 * <a href="http://drops.wooyun.org/" target="_blank">乌云知识库</a>
@@ -40,6 +40,7 @@
 * <a href="http://www.ebaytechblog.com/" target="_blank">eBay Tech Blog</a>
 * <a href="http://blog.yunnotes.net/" target="_blank">Yun Notes</a>
 * <a href="http://dancres.github.io/Pages/" target="_blank">分布式系统阅读资料</a>
+* <a href="http://jm-blog.aliapp.com/" target="_blank">阿里团队中间件技术博客</a>
 
 
 ### 大数据、搜索、推荐
