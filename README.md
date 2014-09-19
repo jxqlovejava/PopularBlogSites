@@ -67,9 +67,11 @@
 * <a href="http://top.jobbole.com/tag/machine-learning/" target="_blank">机器学习资源-伯乐在线</a>
 
 
-### 脚本&工具
+### 运维&脚本&工具
 
 * <a href="http://www.lzhaohao.info/abs/" target="_blank">Bash脚本编程指南</a>
+* <a href="http://oldboy.blog.51cto.com/" target="_blank">老男孩Linux运维</a>
+* <a href="http://nolinux.blog.51cto.com/" target="_blank">Not Only Linux</a>
 
 
 Redis监控：
