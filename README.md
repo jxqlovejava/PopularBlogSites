@@ -78,6 +78,10 @@
 * <a href="http://yueyemaitian.iteye.com/" target="_blank">Netty</a>
 
 
+### Python
+* <a href="https://wiki.python.org/moin/" target="_blank">Python Wiki</a>
+* <a href="http://www.fullstackpython.com/" target="_blank">Python全栈开发</a>
+
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
 https://github.com/jxqlovejava/RedisLive
