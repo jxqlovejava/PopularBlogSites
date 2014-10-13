@@ -15,6 +15,7 @@
 * <a href="http://dev.mysql.com/doc/internals/en/index.html" target="_blank">MySQL Internals</a>
 * <a href="http://imysql.cn/" target="_blank">MySQL中文网</a>
 * <a href="http://mysql.taobao.org/index.php/%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB#.E5.B7.A5.E5.85.B7.E4.BB.8B.E7.BB.8D" target="_blank">taobao mysql分享资料</a>
+* <a href="http://mysqldba.blogspot.com/" target="_blank">MySQL BlogSpot</a>
 
 ### Bloggers
 
