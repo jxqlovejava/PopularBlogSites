@@ -25,6 +25,8 @@
 * <a href="http://blog.csdn.net/bluishglc/" target="_blank">Laurence - 大数据、数据库</a>
 * <a href="http://www.chepoo.com/">chepoo - Java线上问题、数据结构算法、搜索等</a>
 * <a href="http://www.drdobbs.com/" target="_blank">drdobbs</a>
+* <a href="http://cenwenchu.iteye.com/?page=10" target="_blank">文初iteye — 开放平台、分布式系统、服务框架</a>
+* <a href="http://www.infoq.com/cn/author/%E5%B2%91%E6%96%87%E5%88%9D“ target="_blank">文初infoq</a>
 
 ### Java性能、JVM等高级Java话题
 
@@ -83,6 +85,7 @@
 ### Python
 * <a href="https://wiki.python.org/moin/" target="_blank">Python Wiki</a>
 * <a href="http://www.fullstackpython.com/" target="_blank">Python全栈开发</a>
+* <a href="http://segmentfault.com/u/qiwsir/" target="_blank">零基础学Python系列</a>
 
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
