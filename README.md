@@ -48,6 +48,7 @@
 * <a href="http://blog.yunnotes.net/" target="_blank">Yun Notes</a>
 * <a href="http://dancres.github.io/Pages/" target="_blank">分布式系统阅读资料</a>
 * <a href="http://jm-blog.aliapp.com/" target="_blank">阿里团队中间件技术博客</a>
+* <a href="http://c10m.robertgraham.com/p/manifesto.html" target="_blank">C10M问题</a>
 
 
 ### 大数据、搜索、推荐
