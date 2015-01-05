@@ -30,6 +30,7 @@
 * <a href="http://blog.csdn.net/cenwenchu79/" target="_blank">文初csdn博客</a>
 * <a href="http://hitest.aliyun.com/front/share/shareList.htm?spm=0.0.0.0.Rb7GAI" target="_blank">河马测试</a>
 * <a href="http://www.iteblog.com/" target="_blank">大数据平台技术相关</a>
+* <a href="http://it.deepinmind.com/" target="_blank">Java译站</a>
 
 ### Java性能、JVM等高级Java话题
 
