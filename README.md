@@ -32,6 +32,10 @@
 * <a href="http://www.iteblog.com/" target="_blank">大数据平台技术相关</a>
 * <a href="http://it.deepinmind.com/" target="_blank">Java译站</a>
 
+### 文献&论文
+
+* <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/o/Odersky:Martin.html" target="_blank">Martin Ordersky（Scala作者）</a>
+
 ### Java性能、JVM等高级Java话题
 
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
