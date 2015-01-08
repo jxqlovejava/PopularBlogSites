@@ -39,7 +39,8 @@
 ### Java性能、JVM等高级Java话题
 
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
-* <a href="http://www.cs.umd.edu/~pugh/java/memoryModel/">Java内存模型</a>
+* <a href="http://www.cs.umd.edu/~pugh/java/memoryModel/" target="_blank">Java内存模型</a>
+* <a href="http://www.memorymanagement.org/" target="_blank">JVM内存管理</a>
 
 ### 并行编程
 
