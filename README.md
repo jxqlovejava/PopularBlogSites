@@ -41,6 +41,7 @@
 * <a href="http://java-performance.info/" target="_blank">Java Performance Tuning Guide</a>
 * <a href="http://www.cs.umd.edu/~pugh/java/memoryModel/" target="_blank">Java内存模型</a>
 * <a href="http://www.memorymanagement.org/" target="_blank">JVM内存管理</a>
+* <a href="http://hllvm.group.iteye.com/group/topic/41086/" target="_blank">GC历史及在HotSpot方面的进展</a>
 
 ### 并行编程
 
