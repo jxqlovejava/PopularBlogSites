@@ -84,6 +84,7 @@
 
 ### 运维&脚本&工具
 
+* <a href="http://ixdba.blog.51cto.com/" target="_blank">南非蚂蚁</a>
 * <a href="http://www.lzhaohao.info/abs/" target="_blank">Bash脚本编程指南</a>
 * <a href="http://oldboy.blog.51cto.com/" target="_blank">老男孩Linux运维</a>
 * <a href="http://nolinux.blog.51cto.com/" target="_blank">Not Only Linux</a>
