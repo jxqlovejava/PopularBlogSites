@@ -18,7 +18,7 @@
 * <a href="http://mysql.taobao.org/index.php/%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB#.E5.B7.A5.E5.85.B7.E4.BB.8B.E7.BB.8D" target="_blank">taobao mysql分享资料</a>
 * <a href="http://mysqldba.blogspot.com/" target="_blank">MySQL BlogSpot</a>
 * <a href="http://s.petrunia.net/blog/" target="_blank">Petrunia-MySQL查询优化博客</a>
-* <a href="http://dev.mysql.com/doc/refman/5.1/en/optimization.html" target="_blank">MySQL优化-来自MySQL官网</a>
+* <a href="http://dev.mysql.com/doc/refman/5.6/en/optimization.html" target="_blank">MySQL优化-来自MySQL官网</a>
 
 ### Bloggers
 
