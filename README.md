@@ -10,13 +10,15 @@
 * <a href="http://staff.ustc.edu.cn/~sycheng/cs/" target="_blank">中国科大计算机安全课程资料</a>
 * <a href="http://blog.jobbole.com/48738/" target="_blank">信息安全入门指南-伯乐在线</a>
 
-### RDB & NoSQL DB
+### 关系数据库 & NoSQL DB
 * <a href="http://blog.nosqlfan.com/newslist" target="_blank">NoSQLFan</a>
 * <a href="http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/" target="_blank">Implementing a KV Store Table of Contents</a>
 * <a href="http://dev.mysql.com/doc/internals/en/index.html" target="_blank">MySQL Internals</a>
 * <a href="http://imysql.cn/" target="_blank">MySQL中文网</a>
 * <a href="http://mysql.taobao.org/index.php/%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB#.E5.B7.A5.E5.85.B7.E4.BB.8B.E7.BB.8D" target="_blank">taobao mysql分享资料</a>
 * <a href="http://mysqldba.blogspot.com/" target="_blank">MySQL BlogSpot</a>
+* <a href="http://s.petrunia.net/blog/" target="_blank">Petrunia-MySQL查询优化博客</a>
+* <a href="http://dev.mysql.com/doc/refman/5.1/en/optimization.html" target="_blank">MySQL优化-来自MySQL官网</a>
 
 ### Bloggers
 
