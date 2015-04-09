@@ -74,7 +74,8 @@
 
 * <a href="http://www.wentrue.net/blog/" target="_blank">不周山-推荐算法博客</a>
 * <a href="http://lambda-architecture.net/" target="_blank">Lambda架构</a>
-* <a href="http://bigdata.memect.com/?tag=recommendationsystems">推荐系统@bigdata.memect.com</a>
+* <a href="http://bigdata.memect.com/?tag=recommendationsystems" target="_blank">推荐系统@bigdata.memect.com</a>
+* <a href="http://www.niubua.com/" target="_blank">牛吧大数据</a>
 * <a href="http://www.searchtb.com/" target="_blank">淘宝搜索技术博客</a>
 * <a href="http://blog.cloudera.com/blog/" target="_blank">Cloudera</a>
 
