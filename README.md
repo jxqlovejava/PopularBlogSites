@@ -78,6 +78,7 @@
 * <a href="http://www.niubua.com/" target="_blank">牛吧大数据</a>
 * <a href="http://www.searchtb.com/" target="_blank">淘宝搜索技术博客</a>
 * <a href="http://blog.cloudera.com/blog/" target="_blank">Cloudera</a>
+* <a href="http://dongxicheng.org/" target="_blank">董西成博客</a>
 
 ### 编程范式
 
