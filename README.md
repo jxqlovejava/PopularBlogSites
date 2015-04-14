@@ -96,7 +96,8 @@
 * <a href="http://www.cleveralgorithms.com/nature-inspired/index.html" target="_blank">Clever Algorithms</a>
 * <a href="http://blog.jobbole.com/67616/" target="_blank">机器学习入门</a>
 * <a href="http://top.jobbole.com/tag/machine-learning/" target="_blank">机器学习资源-伯乐在线</a>
-
+* <a href="https://www.coursera.org/course/ml" target="_blank">斯坦福大学机器学习课程</a>
+* <a href="http://scikit-learn.org/stable/" target="_blank">scikit机器学习算法验证框架</a>
 
 ### 运维&脚本&工具
 
