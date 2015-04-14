@@ -53,9 +53,10 @@
 * <a href="http://hllvm.group.iteye.com/group/topic/41086/" target="_blank">GC历史及在HotSpot方面的进展</a>
 * <a href="http://mechanical-sympathy.blogspot.hk/" target="_blank">Mechanical Sympathy</a>
 
-### 并行编程
+### 并发&并行
 
 * <a href="http://preshing.com/" target="_blank">Preshing on Programming</a>
+* <a href="http://ifeve.com/" target="_blank">并发编程网</a>
 
 ### 分布式系统、高性能网站架构
 
