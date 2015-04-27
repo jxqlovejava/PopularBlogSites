@@ -71,6 +71,7 @@
 * <a href="http://c10m.robertgraham.com/p/manifesto.html" target="_blank">C10M问题</a>
 * <a href="http://www.zenlife.tk/" target="_blank">zenlife</a>
 * <a href="http://www.cnblogs.com/foxmailed/" target="_blank">foxmailed</a>
+* <a href="https://github.com/benbjohnson/thesecretlivesofdata/raft" target="_blank">Raft协议图解</a>
 
 
 ### 大数据、搜索、推荐
