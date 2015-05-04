@@ -53,6 +53,7 @@
 * <a href="http://www.ticmy.com/" target="_blank">丁一的博客</a>
 * <a href="http://hllvm.group.iteye.com/group/topic/41086/" target="_blank">GC历史及在HotSpot方面的进展</a>
 * <a href="http://mechanical-sympathy.blogspot.hk/" target="_blank">Mechanical Sympathy</a>
+* <a href="http://bluedavy.me/?p=187" target="_blank">学习JVM的References</a>
 
 ### 并发&并行
 
