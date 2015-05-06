@@ -41,6 +41,7 @@
 * <a href="http://www.tuicool.com/" target="_blank">推酷</a>
 * <a href="http://www.dbthink.com/" target="_blank">dbthink</a>
 * <a href="http://itindex.net/" target="_blank">IT瘾</a>
+* <a href="http://blog.paralleluniverse.co/" target="_blank">Parallel Universe</a>
 
 ### 文献&论文
 
