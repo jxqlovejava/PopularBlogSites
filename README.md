@@ -19,6 +19,7 @@
 * <a href="http://mysqldba.blogspot.com/" target="_blank">MySQL BlogSpot</a>
 * <a href="http://s.petrunia.net/blog/" target="_blank">Petrunia-MySQL查询优化博客</a>
 * <a href="http://dev.mysql.com/doc/refman/5.6/en/optimization.html" target="_blank">MySQL优化-来自MySQL官网</a>
+* <a href="http://dimitrik.free.fr/blog/archives/cat_mysql.html" target="_blank">MySQL性能</a>
 * <a href="http://www.innomysql.net/" target="_blank">Inside MySql</a>
 
 ### Bloggers
