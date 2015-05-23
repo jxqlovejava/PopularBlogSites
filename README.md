@@ -125,6 +125,10 @@
 * <a href="http://segmentfault.com/u/qiwsir/" target="_blank">零基础学Python系列</a>
 * <a href="http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_style_rules" target="_blank">Python编程风格指南</a>
 
+### IaaS & PaaS
+
+* <a href="http://zstack.org/" target="_blank">zstack</a>
+
 Redis监控：
 https://github.com/jxqlovejava/redis-faina
 https://github.com/jxqlovejava/RedisLive
