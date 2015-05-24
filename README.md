@@ -89,6 +89,7 @@
 * <a href="http://blog.cloudera.com/blog/" target="_blank">Cloudera</a>
 * <a href="http://dongxicheng.org/" target="_blank">董西成博客</a>
 * <a href="http://caibinbupt.iteye.com/blog/262412" target="_blank">Hadoop源码分析-蔡斌</a>
+* <a href="http://fengshenwu.com/" target="_blank">封神博客</a>
 
 ### 编程范式
 
