@@ -115,6 +115,7 @@
 * <a href="http://www.lzhaohao.info/abs/" target="_blank">Bash脚本编程指南</a>
 * <a href="http://oldboy.blog.51cto.com/" target="_blank">老男孩Linux运维</a>
 * <a href="http://nolinux.blog.51cto.com/" target="_blank">Not Only Linux</a>
+* <a href="http://www.juvenxu.com/" target="_blank">juven xu-Maven权威指南作者</a>
 
 ### Netty
 
