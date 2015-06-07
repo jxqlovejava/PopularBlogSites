@@ -44,6 +44,7 @@
 * <a href="http://itindex.net/" target="_blank">IT瘾</a>
 * <a href="http://blog.paralleluniverse.co/" target="_blank">Parallel Universe</a>
 * <a href="http://www.yvanz.com/" target="_blank">yvanz博客</a>
+* <a href="http://www.letiantian.me/" target="_blank">乐天博客</a>
 
 ### 文献&论文
 
