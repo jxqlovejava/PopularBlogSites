@@ -59,6 +59,7 @@
 * <a href="http://hllvm.group.iteye.com/group/topic/41086/" target="_blank">GC历史及在HotSpot方面的进展</a>
 * <a href="http://mechanical-sympathy.blogspot.hk/" target="_blank">Mechanical Sympathy</a>
 * <a href="http://bluedavy.me/?p=187" target="_blank">学习JVM的References</a>
+* <a href="http://www.oracle.com/technetwork/articles/java/index.html" target="_blank">Oracle技术官网Java文章</a>
 
 ### 并发&并行
 
@@ -142,7 +143,6 @@ http://sirona.incubator.apache.org/
 
 AB
 JMeter
-
 
 
 
