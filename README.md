@@ -68,6 +68,7 @@
 
 ### 分布式系统、高性能网站架构
 
+* <a href="http://martin.kleppmann.com/" target="_blank">Netflix的一大神</a>
 * <a href="http://www.bitstech.net/" target="_blank">bitstech</a>
 * <a href="http://highscalability.com/" target="_blank">High Scabality</a>
 * <a href="http://blog.csdn.net/yangbutao/article/list/14" target="_blank">杨步涛的博客</a>
