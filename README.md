@@ -60,6 +60,7 @@
 * <a href="http://mechanical-sympathy.blogspot.hk/" target="_blank">Mechanical Sympathy</a>
 * <a href="http://bluedavy.me/?p=187" target="_blank">学习JVM的References</a>
 * <a href="http://www.oracle.com/technetwork/articles/java/index.html" target="_blank">Oracle技术官网Java文章</a>
+* <a href="http://www.molotang.com/articles/category/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/%E5%BC%80%E5%8F%91/java/java%E8%AF%AD%E8%A8%80/%E5%B9%B6%E5%8F%91" target="_blank">Java集合类分析</a>
 
 ### 并发&并行
 
