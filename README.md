@@ -142,10 +142,7 @@ Redis监控：
 https://github.com/jxqlovejava/redis-faina
 https://github.com/jxqlovejava/RedisLive
 
-应用监控
-http://sirona.incubator.apache.org/
-
-AB
-JMeter
+### 应用监控
+* <a href="http://sirona.incubator.apache.org/" target="_blank">Apache Sirona-Java应用监控解决方案</a>
 
 
