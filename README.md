@@ -46,6 +46,7 @@
 * <a href="http://www.yvanz.com/" target="_blank">yvanz博客</a>
 * <a href="http://www.letiantian.me/" target="_blank">乐天博客</a>
 * <a href="https://blog.codecentric.de/en/" target="_blank">Code Centric</a>
+* <a href="https://blog.twitter.com/" target="_blank">Twitter Engineering Blog</a>
 
 ### 文献&论文
 
