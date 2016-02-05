@@ -47,6 +47,7 @@
 * <a href="http://www.letiantian.me/" target="_blank">乐天博客</a>
 * <a href="https://blog.codecentric.de/en/" target="_blank">Code Centric</a>
 * <a href="https://blog.twitter.com/" target="_blank">Twitter Engineering Blog</a>
+* <a href="http://blog.2baxb.me/" target="_blank">Axb的自我修养</a>
 
 ### 文献&论文
 
