@@ -1,6 +1,28 @@
 # 流行技术博客站点收录
 
-涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。
+涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中......
+
+
+## 目录
+
+* [Security](#Security)
+* [关系数据库 & NoSQL DB](#关系数据库 & NoSQL DB)
+* [Bloggers](#Bloggers)
+* [文献&论文](#文献&论文)
+* [Java性能、GC、JVM等高级Java话题](#Java性能、GC、JVM等高级Java话题)
+* [并发&并行](#并发&并行)
+* [分布式系统、高性能网站架构](#分布式系统、高性能网站架构)
+* [大数据、搜索、推荐](#大数据、搜索、推荐)
+* [编程范式](#编程范式)
+* [通用算法](#通用算法)
+* [人工智能 & 机器学习](#人工智能 & 机器学习)
+* [运维&脚本&工具](#运维&脚本&工具)
+* [Netty](#Netty)
+* [Python](#Python)
+* [IaaS & PaaS](#IaaS & PaaS)
+* [应用监控](#应用监控)
+
+---
 
 ### Security
 * <a href="http://drops.wooyun.org/" target="_blank">乌云知识库</a>
@@ -141,9 +163,7 @@
 
 * <a href="http://zstack.org/" target="_blank">zstack</a>
 
-Redis监控：
-https://github.com/jxqlovejava/redis-faina
-https://github.com/jxqlovejava/RedisLive
+* Redis监控：https://github.com/jxqlovejava/redis-faina   https://github.com/jxqlovejava/RedisLive
 
 ### 应用监控
 * <a href="http://sirona.incubator.apache.org/" target="_blank">Apache Sirona-Java应用监控解决方案</a>
