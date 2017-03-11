@@ -100,6 +100,7 @@
 * <a href="http://caibinbupt.iteye.com/blog/262412" target="_blank">Hadoop源码分析-蔡斌</a>
 * <a href="http://fengshenwu.com/" target="_blank">封神博客</a>
 * <a href="http://www.binospace.com/" target="_blank">binospace</a>
+* <a href="http://www.cnblogs.com/hseagle/p/Spark.html" target="_blank">Apache Spark源码走读-徽沪一郎</a>
 
 ### 编程范式
 
